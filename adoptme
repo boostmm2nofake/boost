@@ -1,4 +1,4 @@
-local ALLOWED_USER_ID = 123456789
+local ALLOWED_USER_ID = 4421640116
 
 if game.Players.LocalPlayer.UserId ~= ALLOWED_USER_ID then
     return
